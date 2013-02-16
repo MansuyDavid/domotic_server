@@ -844,5 +844,4 @@ function cleanOldValuesOfDeprecatedDSm(){
 function compactBDD(){
   bdd.compact();
   bdd.view.compact('getConsumption');
-//console.log('compactage :\n',e);console.log(b);console.log(h);});
 }
